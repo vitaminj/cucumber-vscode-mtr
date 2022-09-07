@@ -1,0 +1,4 @@
+{
+    "cucumber.features": ["cucumber/features/definitions/**/*.feature"],
+    "cucumber.glue": ["cucumber/features/step_definitions/**/*.ts"],
+}

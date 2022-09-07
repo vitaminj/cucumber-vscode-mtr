@@ -1,0 +1,6 @@
+{
+  "name": "cucumber-extension-test",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.5.2"
+  }
+}
